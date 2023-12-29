@@ -1,0 +1,14 @@
+C:\Users\Dev\Documents\C#\DateCounter\bin\Debug\net8.0\DateCounter.exe
+C:\Users\Dev\Documents\C#\DateCounter\bin\Debug\net8.0\DateCounter.deps.json
+C:\Users\Dev\Documents\C#\DateCounter\bin\Debug\net8.0\DateCounter.runtimeconfig.json
+C:\Users\Dev\Documents\C#\DateCounter\bin\Debug\net8.0\DateCounter.dll
+C:\Users\Dev\Documents\C#\DateCounter\bin\Debug\net8.0\DateCounter.pdb
+C:\Users\Dev\Documents\C#\DateCounter\obj\Debug\net8.0\DateCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\Documents\C#\DateCounter\obj\Debug\net8.0\DateCounter.AssemblyInfoInputs.cache
+C:\Users\Dev\Documents\C#\DateCounter\obj\Debug\net8.0\DateCounter.AssemblyInfo.cs
+C:\Users\Dev\Documents\C#\DateCounter\obj\Debug\net8.0\DateCounter.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Documents\C#\DateCounter\obj\Debug\net8.0\DateCounter.dll
+C:\Users\Dev\Documents\C#\DateCounter\obj\Debug\net8.0\refint\DateCounter.dll
+C:\Users\Dev\Documents\C#\DateCounter\obj\Debug\net8.0\DateCounter.pdb
+C:\Users\Dev\Documents\C#\DateCounter\obj\Debug\net8.0\DateCounter.genruntimeconfig.cache
+C:\Users\Dev\Documents\C#\DateCounter\obj\Debug\net8.0\ref\DateCounter.dll
